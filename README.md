@@ -6,7 +6,7 @@ In order to make date pickers to work there are some library to install at speci
 This example would demostrate how to make the [example](https://material-ui.com/components/pickers/#material-ui-pickers) running from scratch creating the solution and installing libraries.
 the key point is the version of `@date-io/date-fns` that currently works with pinned `@1.x` version.
 
-[live demo]()
+[live demo](https://codesandbox.io/s/github/devel0/example-material-pickers)
 
 ## start
 
